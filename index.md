@@ -47,7 +47,6 @@
 **Master of Science in Computer Science** | August 2023
 Machine Learning Specialization
 
-### Georgia Institute of Technology | Atlanta, GA
 **Bachelor of Science in Physics** | May 2018
 
 ---
